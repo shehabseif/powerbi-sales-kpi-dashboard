@@ -54,7 +54,7 @@ This report includes KPI measures used in the card visuals:
 3. If Power BI asks for the data source, point it to:
    `data/8_1_section-five-data-extract.xlsx`
 
-## Notes (for recruiters)
+## Notes 
 This is a practice project designed to demonstrate dashboard building fundamentals:
 - data loading + basic modeling
 - KPI creation
