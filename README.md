@@ -13,8 +13,7 @@ This is a simple Power BI dashboard built as a practice project to demonstrate c
 - A slicer to filter by **Product Color**
 
 ## Dashboard preview
-[![Dashboard Preview](images/dashboard-preview.png)
-](https://github.com/shehabseif/powerbi-sales-kpi-dashboard/blob/main/Task%20Visual.JPG)
+![Dashboard Screenshot](images/dashboard-preview.jpg)
 
 ## Data source
 The project uses an Excel file that contains one fact table and multiple dimension tables:
